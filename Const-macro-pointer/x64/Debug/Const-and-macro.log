@@ -1,0 +1,18 @@
+﻿  Macro.c
+  pointer.c
+D:\VS2022\project\Const-and-macro\pointer.c(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022\project\Const-and-macro\pointer.c(7,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022\project\Const-and-macro\pointer.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022\project\Const-and-macro\pointer.c(8,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022\project\Const-and-macro\pointer.c(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022\project\Const-and-macro\pointer.c(9,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022\project\Const-and-macro\pointer.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022\project\Const-and-macro\pointer.c(10,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022\project\Const-and-macro\pointer.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022\project\Const-and-macro\pointer.c(11,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022\project\Const-and-macro\pointer.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022\project\Const-and-macro\pointer.c(12,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022\project\Const-and-macro\pointer.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022\project\Const-and-macro\pointer.c(13,9): message : 请考虑在格式字符串中使用“%zd”
+  正在生成代码...
+  Const-and-macro.vcxproj -> D:\VS2022\project\Const-and-macro\x64\Debug\Const-and-macro.exe
