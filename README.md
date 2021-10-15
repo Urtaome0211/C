@@ -1,4 +1,4 @@
-#C Learning record
+# C Learning record
 
 2021/10/8 Variate and Constant  
 2021/10/9 Escape_Character  
