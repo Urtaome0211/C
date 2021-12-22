@@ -1,7 +1,0 @@
-﻿  Source1.c
-  Source2.c
-  Source3.c
-  Generating Code...
-Source2.obj : error LNK2019: unresolved external symbol _Add referenced in function _main
-Function2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
-D:\VS2022\project\Function2\Debug\Function2.exe : fatal error LNK1120: 1 unresolved externals
