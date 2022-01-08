@@ -8,3 +8,4 @@
 2021/10/15 If_else_1  
 2021/10/22 Switch & While  
 2021/12/21 Function
+2022/01/08 Array
