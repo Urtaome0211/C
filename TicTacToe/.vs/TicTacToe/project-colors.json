@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "57a97873-8bce-43e7-ab42-6be2590ed43f": {
+      "ProjectGuid": "57a97873-8bce-43e7-ab42-6be2590ed43f",
+      "DisplayName": "TicTacToe",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
