@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\VS2022\project\CTestOJ\CTestOJ\Source.c(43,6): warning C4013: 'gets' undefined; assuming extern returning int
+D:\VS2022\project\CTestOJ\CTestOJ\Source.c(44,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CTestOJ.vcxproj -> D:\VS2022\project\CTestOJ\x64\Debug\CTestOJ.exe
