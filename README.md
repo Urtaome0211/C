@@ -12,4 +12,5 @@
 2022/01/17 PointerBasic  
 2022/01/18 StructBasic  
 2022/01/19 how to debug  
-2022/01/20 StoreData int
+2022/01/20 StoreData int  
+2022/01/20 StoreData float&double   
