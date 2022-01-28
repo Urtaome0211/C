@@ -1,0 +1,22 @@
+﻿  Source.c
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(151,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(151,9): message : consider using '%zd' in the format string
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(152,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(152,9): message : consider using '%zd' in the format string
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(153,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(153,9): message : consider using '%zd' in the format string
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(154,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(154,9): message : consider using '%zd' in the format string
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(155,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(155,9): message : consider using '%zd' in the format string
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(156,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(156,9): message : consider using '%zd' in the format string
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(157,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(157,9): message : consider using '%zd' in the format string
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(158,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(158,9): message : consider using '%zd' in the format string
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(159,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(159,9): message : consider using '%zd' in the format string
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(160,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\pointerAdvanced3\pointerAdvanced3\Source.c(160,9): message : consider using '%zd' in the format string
+  pointerAdvanced3.vcxproj -> D:\VS2022\project\pointerAdvanced3\x64\Debug\pointerAdvanced3.exe
