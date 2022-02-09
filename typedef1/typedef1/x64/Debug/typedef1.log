@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\VS2022\project\typedef1\typedef1\Source.c(55,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\typedef1\typedef1\Source.c(55,12): message : consider using '%zd' in the format string
+D:\VS2022\project\typedef1\typedef1\Source.c(58,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\VS2022\project\typedef1\typedef1\Source.c(58,12): message : consider using '%zd' in the format string
+  typedef1.vcxproj -> D:\VS2022\project\typedef1\x64\Debug\typedef1.exe
