@@ -14,4 +14,5 @@
 2022/01/19 how to debug  
 2022/01/20 StoreData int  
 2022/01/20 StoreData float&double   
-2022/01/22 Pointer Advanced
+2022/01/22 Pointer Advanced  
+2022/02/10 Typedef
