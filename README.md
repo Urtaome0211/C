@@ -15,4 +15,6 @@
 2022/01/20 StoreData int  
 2022/01/20 StoreData float&double   
 2022/01/22 Pointer Advanced  
-2022/02/10 Typedef
+2022/02/10 Typedef  
+2022/02/11 Dynamic Memory Allocation  
+2022/02/13 FILE  
