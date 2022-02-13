@@ -1,0 +1,17 @@
+int main()
+{
+	int a = 10000;
+	FILE* pf = fopen("test.txt", "wb");
+	if (pf == NULL)
+	{
+		perror("fopen");
+		return 1;
+	}
+	//写文件
+	fwrite(&a, sizeof(int), 1, pf);//二进制的形式写到文件中
+
+	//关文件
+	fclose(pf);
+	pf = NULL;
+	return 0;
+}
