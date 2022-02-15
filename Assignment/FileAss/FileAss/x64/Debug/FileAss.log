@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\VS2022\project\FileAss\FileAss\Source.c(25,38): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+D:\VS2022\project\FileAss\FileAss\Source.c(26,38): warning C4311: 'type cast': pointer truncation from 'short *' to 'int'
+D:\VS2022\project\FileAss\FileAss\Source.c(27,38): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+D:\VS2022\project\FileAss\FileAss\Source.c(28,38): warning C4311: 'type cast': pointer truncation from 'char *' to 'int'
+  FileAss.vcxproj -> D:\VS2022\project\FileAss\x64\Debug\FileAss.exe
